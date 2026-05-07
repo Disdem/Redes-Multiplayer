@@ -315,3 +315,19 @@ Received Import Request.
 Start importing Assets/Props/Mat_Env.mat using Guid(be3d94cc670fb594a97d55fce50a5e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4c73810b6e309100b61e3ccec8b2971') in 0.035046 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+========================================================================
+Received Import Request.
+  Time since last request: 2840.004633 seconds.
+  path: Assets/Props/PropsRunner.fbx
+  artifactKey: Guid(4225b7bd839042f459dc29f90b721e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/PropsRunner.fbx using Guid(4225b7bd839042f459dc29f90b721e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83d7c0c8960fc82db9e90315f2596d1f') in 0.7514187 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 640
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.925294 seconds.
+  path: Assets/Props/Mat_Env.mat
+  artifactKey: Guid(be3d94cc670fb594a97d55fce50a5e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Mat_Env.mat using Guid(be3d94cc670fb594a97d55fce50a5e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'abeb91f34c0d0ed52a8f2bc5136a84b7') in 0.0214184 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
